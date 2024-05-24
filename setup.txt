@@ -3,7 +3,7 @@ langchain_community
 PyPDF2
 python-dotenv
 streamlit
-faiss
+faiss-cpu
 altair
 tiktoken
 huggingface-hub
