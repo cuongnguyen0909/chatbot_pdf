@@ -1,0 +1,11 @@
+langchain
+langchain_community
+PyPDF2
+python-dotenv
+streamlit
+faiss
+altair
+tiktoken
+huggingface-hub
+InstructorEmbedding
+sentence-transformers
