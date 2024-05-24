@@ -9,8 +9,6 @@ from langchain.chains import ConversationalRetrievalChain
 from htmlTemplates import css, bot_template, user_template
 from langchain_community.llms import HuggingFaceHub
 
-model_file = "models/vinallama-7b-chat_q5_0.gguf"
-
 def get_pdf_text(pdf_docs):
     text = ""
     for pdf in pdf_docs:
